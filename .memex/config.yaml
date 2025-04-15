@@ -17,13 +17,13 @@ git:
   url: https://github.com/memextech/android-template
 hero_image: ''
 icon: ''
-is_published: false
+is_published: true
 pills:
 - icon: 'Rocket'
   label: 'Create 2D Game'
   prompt: 'Create a 2D game using the Android template'
 project_id: BZuxnXzdoLbNtZQhApya
-published_at: null
+published_at: 2025-04-15 13:55:41.545000
 requirements:
 - description: ''
   type: ''
