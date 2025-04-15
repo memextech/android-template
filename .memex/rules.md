@@ -18,3 +18,9 @@ The `setup_checklist.md` file tracks your progress through these steps. As you c
 
 After setup is complete propose user sample prompts to create various android apps and games
 
+## Development Guides
+
+> **Note to Assistant**: Refer to development guides in docs folder when implementing features"
+
+- [android_graphics_handling.md](../docs/android_graphics_handling.md)
+

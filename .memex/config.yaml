@@ -12,16 +12,16 @@ features:
 getting_started_screen: false
 getting_started_screen_index: 0
 git:
-  branch: main  
+  branch: main
   remote: origin
   url: https://github.com/memextech/android-template
-hero_image: ''
+hero_image: https://raw.githubusercontent.com/memextech/android-template/main/public/images/hero-image.png
 icon: ''
 is_published: true
 pills:
-- icon: 'Rocket'
-  label: 'Create 2D Game'
-  prompt: 'Create a 2D game using the Android template'
+- icon: Rocket
+  label: Create 2D Game
+  prompt: Create a 2D game using the Android template
 project_id: BZuxnXzdoLbNtZQhApya
 published_at: 2025-04-15 13:55:41.545000
 requirements:
@@ -40,4 +40,4 @@ tools:
   role: ''
   type: ''
   version: ''
-updated_at: 2025-04-15 13:50:02.722000
+updated_at: 2025-04-15 15:00:17.693000
