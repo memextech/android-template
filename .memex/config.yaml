@@ -8,7 +8,8 @@ deployment:
 description: Android starter template
 domain: ''
 features:
-- ''
+- Android
+- Starter
 getting_started_screen: false
 getting_started_screen_index: 0
 git:
@@ -40,4 +41,4 @@ tools:
   role: ''
   type: ''
   version: ''
-updated_at: 2025-04-15 15:00:17.693000
+updated_at: 2025-04-16 16:12:09.702000
